@@ -26,10 +26,7 @@ The dashboard provides a comprehensive view of sales metrics such as total sales
 - Data Visualization  
 
 # Dashboard Preview
-
+https://github.com/aartimaurya12/Financial-Sales-Performance-Dashboard/blob/main/Dashboard.png
 
 # Conclusion  
 This project demonstrates how data visualization can help businesses track performance, identify gaps, and make data-driven decisions.
-
-# Project Files
-
