@@ -28,5 +28,8 @@ The dashboard provides a comprehensive view of sales metrics such as total sales
 # Dashboard Preview
 https://github.com/aartimaurya12/Financial-Sales-Performance-Dashboard/blob/main/Dashboard.png
 
+# KPI
+<img width="104" height="247" alt="KPI" src="https://github.com/user-attachments/assets/c12684af-03cf-4ba5-8e23-31e460106826" />
+
 # Conclusion  
 This project demonstrates how data visualization can help businesses track performance, identify gaps, and make data-driven decisions.
