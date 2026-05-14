@@ -1,4 +1,4 @@
-# Financial-Sales-Performance-Dashboard
+# Financial-Sales-Dashboard
 
 # Project Overview
 This project focuses on analyzing sales performance using Power BI to identify key business insights and performance gaps.
